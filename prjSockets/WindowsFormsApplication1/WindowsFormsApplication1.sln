@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication1", "WindowsFormsApplication1\WindowsFormsApplication1.csproj", "{DECCA8FA-4A73-4B90-A729-8ECA7FA9F309}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Servidor_Sockects", "WindowsFormsApplication1\Servidor_Sockects.csproj", "{DECCA8FA-4A73-4B90-A729-8ECA7FA9F309}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
