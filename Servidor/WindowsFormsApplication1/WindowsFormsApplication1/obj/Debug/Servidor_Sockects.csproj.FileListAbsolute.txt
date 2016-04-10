@@ -1,0 +1,9 @@
+D:\Dropbox\FACULDADE\Setimo_semestre\2016\Programação Movel\prjSockets\Servidor\prjSockets\prjSockets\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\frmServidor.frm_principal.resources
+D:\Dropbox\FACULDADE\Setimo_semestre\2016\Programação Movel\prjSockets\Servidor\prjSockets\prjSockets\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\frmServidor.Properties.Resources.resources
+D:\Dropbox\FACULDADE\Setimo_semestre\2016\Programação Movel\prjSockets\Servidor\prjSockets\prjSockets\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Servidor_Sockects.csproj.GenerateResource.Cache
+D:\Dropbox\FACULDADE\Setimo_semestre\2016\Programação Movel\prjSockets\Servidor\prjSockets\prjSockets\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Dropbox\FACULDADE\Setimo_semestre\2016\Programação Movel\prjSockets\Servidor\prjSockets\prjSockets\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Dropbox\FACULDADE\Setimo_semestre\2016\Programação Movel\prjSockets\Servidor\prjSockets\prjSockets\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Dropbox\FACULDADE\Setimo_semestre\2016\Programação Movel\prjSockets\Servidor\prjSockets\prjSockets\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Dropbox\FACULDADE\Setimo_semestre\2016\Programação Movel\prjSockets\Servidor\prjSockets\prjSockets\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Dropbox\FACULDADE\Setimo_semestre\2016\Programação Movel\prjSockets\Servidor\prjSockets\prjSockets\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Servidor_Sockects.csprojResolveAssemblyReference.cache

@@ -77,7 +77,7 @@ namespace frmServidor
 
         //Método responsávael por aceitas as conexãoes
 
-        private void acceptConnection()
+        private void aceitaConexao()
         {
 
             try
@@ -185,7 +185,7 @@ namespace frmServidor
         {
             try
             {
-                this.acceptConnection();
+                this.aceitaConexao();
                 this.setMsg("## Conexão Aceita ...", true);
 
                 do
